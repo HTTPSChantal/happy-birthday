@@ -1,2 +1,3 @@
 # happy-birthday
-A customizable happy birthday website built with HTML, CSS, and JavaScript.
+Happy Birthday Website made using Html, css and JavaScript
+<a href="https://programmergaurav.github.io/happy-birthday/?name=Gaurav" target="blank">Click Here</a>
